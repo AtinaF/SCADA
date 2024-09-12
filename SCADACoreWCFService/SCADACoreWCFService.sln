@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SCADACoreWCFService", "SCADACoreWCFService.csproj", "{A64CF4CF-768F-4AFB-B762-F7989ECA9B5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlarmDisplay", "..\AlarmDisplay\AlarmDisplay.csproj", "{6E4C0F9D-C138-481C-8C54-85A46B78C1FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseManager", "..\DatabaseManager\DatabaseManager.csproj", "{B51721D3-DD6B-4B3B-BDCC-1C0EB89E6E41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealTimeUnit", "..\RealTimeUnit\RealTimeUnit.csproj", "{871AF56B-E0AE-4BB8-81B9-8DDD6497D78D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReportManager", "..\ReportManager\ReportManager.csproj", "{56AF4B36-5C8B-4C49-A1D8-9DE3DBBC2AAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trending", "..\Trending\Trending.csproj", "{C12F3537-E20C-465A-BC22-EB03B2CF27CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A64CF4CF-768F-4AFB-B762-F7989ECA9B5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A64CF4CF-768F-4AFB-B762-F7989ECA9B5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A64CF4CF-768F-4AFB-B762-F7989ECA9B5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A64CF4CF-768F-4AFB-B762-F7989ECA9B5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E4C0F9D-C138-481C-8C54-85A46B78C1FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E4C0F9D-C138-481C-8C54-85A46B78C1FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E4C0F9D-C138-481C-8C54-85A46B78C1FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E4C0F9D-C138-481C-8C54-85A46B78C1FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B51721D3-DD6B-4B3B-BDCC-1C0EB89E6E41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B51721D3-DD6B-4B3B-BDCC-1C0EB89E6E41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B51721D3-DD6B-4B3B-BDCC-1C0EB89E6E41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B51721D3-DD6B-4B3B-BDCC-1C0EB89E6E41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{871AF56B-E0AE-4BB8-81B9-8DDD6497D78D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{871AF56B-E0AE-4BB8-81B9-8DDD6497D78D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{871AF56B-E0AE-4BB8-81B9-8DDD6497D78D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{871AF56B-E0AE-4BB8-81B9-8DDD6497D78D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56AF4B36-5C8B-4C49-A1D8-9DE3DBBC2AAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56AF4B36-5C8B-4C49-A1D8-9DE3DBBC2AAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56AF4B36-5C8B-4C49-A1D8-9DE3DBBC2AAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56AF4B36-5C8B-4C49-A1D8-9DE3DBBC2AAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C12F3537-E20C-465A-BC22-EB03B2CF27CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C12F3537-E20C-465A-BC22-EB03B2CF27CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C12F3537-E20C-465A-BC22-EB03B2CF27CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C12F3537-E20C-465A-BC22-EB03B2CF27CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B210D953-B978-4668-B6BA-B8DA81DAE996}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+<services>
+      <service name="WcfServer.Service1">
+        <endpoint address="/Service1" binding="basicHttpBinding" contract="WcfServer.IService1"/>
+      </service>
+      <service name="WcfServer.Service2">
+        <endpoint address="/Service2" binding="basicHttpBinding" contract="WcfServer.IService2"/>
+      </service>
+</services>
